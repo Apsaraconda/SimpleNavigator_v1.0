@@ -1,5 +1,5 @@
 # SimpleNavigator_v1.0
-Реализация библиотеки s21_graph для Ubuntu/Macos
+CLI реализация библиотеки s21_graph для Ubuntu/Macos
 
 ![](https://github.com/Apsaraconda/SimpleNavigator_v1.0/blob/main/misc/gif/preview.gif)
 
